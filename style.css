@@ -1,0 +1,112 @@
+body{
+    font-family: 'Balsamiq Sans', cursive;
+    margin: 0px;
+}
+h1{
+    font-size: 40px;
+}
+p{
+    text-align: justify;
+    word-spacing: 2px;
+    color: dimgray;
+}
+.name{
+    color: orangered;
+}
+.half-width1{
+    width: 40%;
+    float: left; 
+    margin-left:5%;
+    padding-left: 2%;
+    margin-top: 5%;
+}
+.half-width{
+    width: 40%;
+    float: left; 
+    margin-left:5%;
+    padding-left: 2%;
+}
+.half-width img{
+    margin-top: 3%;
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 350px;
+    padding-bottom: 200px;;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, deeppink, rgb(247, 100, 149));
+    color: white;
+    border-radius: 4px;
+    font-weight: 70;
+    padding: 10px 25px;
+}
+.biography{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    position: relative;
+}
+.work{
+    text-align: center;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-position:top;
+    background-attachment: fixed;
+    margin-left: 6%;
+
+}
+
+.latest-work-image img{
+    width: 25%;
+    float: left;
+    margin: 3%;
+    
+}
+
+
+.footer-work{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    position: right;
+    text-align: center;
+}
+.footer-work p3{
+    color: dimgray;
+}
+.footer-work p2{
+    color: dimgrey;
+    font-size: 12px;
+}
+
+.quotes{
+    margin-top: 20px;
+}
+.quotes p3{
+    color: dimgrey;
+    text-align: center;
+}
+
+.bigbutton{
+    padding: 40px 65px;
+    background-image: linear-gradient(45deg, deeppink, rgb(247, 100, 149));
+    margin: 100px 450px;
+    text-align: center;
+    color: white;
+    border-radius: 6px;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
+.message{
+    text-align: center;
+    font-size: 12px;
+}
