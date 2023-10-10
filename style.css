@@ -55,6 +55,15 @@ section{
 .work{
     text-align: center;
 }
+
+.content{
+    text-align: left;
+    width: 925px;
+    padding: 15px 0 20px 0;
+    margin: 0;
+    color: #5D5D5D;
+}
+
 .latest-work{
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
