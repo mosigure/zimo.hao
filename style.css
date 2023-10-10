@@ -70,6 +70,8 @@ section{
     background-position:top;
     background-attachment: fixed;
     margin-left: 10%;
+    font-size: calc(var(--size, 1) * 16px);
+        line-height: calc(var(--size, 1) * 18px);
 
 }
 
