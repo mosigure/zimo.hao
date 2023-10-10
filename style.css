@@ -41,7 +41,7 @@ section{
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(45deg, deeppink, rgb(247, 100, 149));
+    background-image: linear-gradient(45deg, blue, rgb(247, 100, 149));
     color: white;
     border-radius: 4px;
     font-weight: 70;
